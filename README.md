@@ -1,10 +1,12 @@
 <<<<<<< HEAD
+
 # Sistema de gestión de usuarios
 
 Link para ver resultado: [RESULTADO FINAL](https://user-management-system-app.vercel.app/)
 ![Captura de pantalla del sistema de gestión de usuarios]()
 
 ## Descripción
+
 El User Management System es una aplicación web desarrollada con React que permite gestionar usuarios de manera eficiente. Ofrece funcionalidades CRUD completas (Crear, Leer, Actualizar y Eliminar) para administrar información de usuarios, junto con páginas informativas y de contacto.
 
 ## Características Principales
@@ -17,6 +19,7 @@ El User Management System es una aplicación web desarrollada con React que perm
 - ✨ Interfaz moderna con Font Awesome y Google Fonts
 
 ## Tecnologías Utilizadas
+
 - Frontend:
   - React 18
   - Vite (como bundler)
@@ -66,33 +69,38 @@ npm install
 ```
 
 3. Ejecutar en modo desarrollo:
+
 ```
 npm run dev
 ```
 
 ## Rutas Disponibles
-  - / - Página de inicio
-  - /users - Listado y gestión de usuarios
-  - /contact - Formulario de contacto
-  - /about - Información sobre el proyecto
+
+- / - Página de inicio
+- /users - Listado y gestión de usuarios
+- /contact - Formulario de contacto
+- /about - Información sobre el proyecto
 
 ## Componentes Principales
 
 ### useUserManagement
+
 Hook personalizado que maneja toda la lógica de gestión de usuarios (CRUD operations).
 
 ### UserListPage
+
 Página principal que muestra la tabla de usuarios, barra de búsqueda y formulario.
 
 ### UserTable
+
 Componente que muestra los usuarios en formato de tabla con opciones para editar y eliminar.
 
 ### Navbar
+
 Barra de navegación responsive con menú hamburguesa para dispositivos móviles.
 
-
-
 =======
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
@@ -105,4 +113,5 @@ Currently, two official plugins are available:
 ## Expanding the ESLint configuration
 
 If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
->>>>>>> 92ea3c3 (first commit)
+
+> > > > > > > 92ea3c3 (first commit)
