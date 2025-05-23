@@ -1,6 +1,7 @@
 # Sistema de gestión de usuarios
 
 Link para ver resultado: [RESULTADO FINAL](https://user-management-system-app.vercel.app/)
+![Captura de pantalla del sistema de gestión de usuarios]()
 
 ## Descripción
 El User Management System es una aplicación web desarrollada con React que permite gestionar usuarios de manera eficiente. Ofrece funcionalidades CRUD completas (Crear, Leer, Actualizar y Eliminar) para administrar información de usuarios, junto con páginas informativas y de contacto.
