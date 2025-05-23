@@ -3,7 +3,7 @@
 # Sistema de gestión de usuarios
 
 Link para ver resultado: [RESULTADO FINAL](https://user-management-system-app.vercel.app/)
-![Captura de pantalla del sistema de gestión de usuarios]()
+![Captura de pantalla del sistema de gestión de usuarios](https://github.com/nisvagodev/user-management-system-app/blob/main/captura-del-sistema.png?raw=true)
 
 ## Descripción
 
