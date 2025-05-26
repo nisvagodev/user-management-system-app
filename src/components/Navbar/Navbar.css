@@ -85,7 +85,6 @@
     background-color: #333;
     flex-direction: column;
     align-items: center;
-    padding: 1rem 0;
     gap: 0;
     max-height: 0;
     overflow: hidden;
@@ -115,11 +114,19 @@
   .logo-link h1 {
     font-size: 0.9em;
   }
+
+  .logo-link i {
+    display: none;
+  }
 }
 
 @media (max-width: 480px) {
   .navbar {
     padding: 0.3rem 1rem;
+  }
+
+  .logo-link i {
+    display: none;
   }
 
   .logo-link i {
